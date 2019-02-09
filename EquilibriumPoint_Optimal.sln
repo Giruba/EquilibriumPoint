@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquilibriumPoint_Optimal", "EquilibriumPoint_Optimal\EquilibriumPoint_Optimal.csproj", "{81982B71-2A2B-4545-8DD0-0C63C824F056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81982B71-2A2B-4545-8DD0-0C63C824F056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81982B71-2A2B-4545-8DD0-0C63C824F056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81982B71-2A2B-4545-8DD0-0C63C824F056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81982B71-2A2B-4545-8DD0-0C63C824F056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D50B9028-17C6-4B7F-A678-A36716173C10}
+	EndGlobalSection
+EndGlobal
